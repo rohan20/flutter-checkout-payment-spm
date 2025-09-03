@@ -16,13 +16,8 @@ This Flutter plugin is for Checkout.com online payment with SPM support.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   
-  # Check if we're using SPM (Swift Package Manager)
-  using_spm = ENV['USE_SPM_FOR_CHECKOUT'] == 'true'
-  
-  # Only add Frames CocoaPods dependency if we're NOT using SPM
-  unless using_spm
-    s.dependency 'Frames', '~> 4.0'
-  end
+  # This plugin now uses SPM exclusively for Checkout dependencies
+  # No CocoaPods dependencies for Frames - add via SPM in Xcode instead
   
   s.platform = :ios, '13.0'
 

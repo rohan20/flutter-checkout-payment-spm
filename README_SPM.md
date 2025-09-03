@@ -1,17 +1,12 @@
-# Flutter Checkout Payment - SPM Support
+# Flutter Checkout Payment - Pure SPM
 
-This fork adds Swift Package Manager (SPM) support to the original flutter_checkout_payment plugin.
+This fork converts the original flutter_checkout_payment plugin to use Swift Package Manager (SPM) exclusively.
 
 ## SPM Usage
 
-To use this plugin with SPM instead of CocoaPods:
+To use this plugin with pure SPM:
 
-1. Set the environment variable in your `Podfile`:
-   ```ruby
-   ENV['USE_SPM_FOR_CHECKOUT'] = 'true'
-   ```
-
-2. Add the Frames SDK via SPM in your iOS project:
+1. Add the Frames SDK via SPM in your iOS project:
    - Open your iOS project in Xcode
    - Go to File → Add Package Dependencies
    - Add: `https://github.com/checkout/frames-ios`
