@@ -1,7 +1,13 @@
 import Flutter
-import Checkout
 import UIKit
+
+#if canImport(Frames)
 import Frames
+#endif
+
+#if canImport(Checkout)
+import Checkout
+#endif
 
 public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     
