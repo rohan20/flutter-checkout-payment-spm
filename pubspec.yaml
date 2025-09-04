@@ -1,6 +1,6 @@
 name: flutter_checkout_payment
 description: This plugin is for Checkout online payment with Swift Package Manager (SPM) support. It's implemented the native SDKs to work on Flutter environment.
-version: 1.4.9-spm
+version: 1.5.0-spm-minimal
 homepage: https://github.com/rohan20/flutter-checkout-payment-spm
 
 environment:
