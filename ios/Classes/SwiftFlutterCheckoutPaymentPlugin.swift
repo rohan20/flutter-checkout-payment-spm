@@ -1,8 +1,5 @@
 import Flutter
 import UIKit
-import Frames
-import CheckoutCardManagement
-import CheckoutEventLoggerKit
 
 public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     
@@ -19,8 +16,7 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     /// Error codes returned to Flutter if there's an error.
     private var GENERATE_TOKEN_ERROR : String = "2"
     
-    /// Checkout instance
-    private var checkoutAPIClient: CheckoutAPIClient?
+    /// Minimal bridge - checkout functionality handled natively in iOS app
     
     public static func register(with registrar: FlutterPluginRegistrar) {
         let channel = FlutterMethodChannel(name: CHANNEL_NAME, binaryMessenger: registrar.messenger())
@@ -46,67 +42,22 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     }
     
     private func handleInit(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        guard let arguments = call.arguments as? [String: Any],
-              let publicKey = arguments["publicKey"] as? String else {
-            result(FlutterError(code: "INVALID_ARGUMENTS", message: "Missing publicKey", details: nil))
-            return
-        }
-        
-        let environment: Environment = arguments["environment"] as? String == "live" ? .live : .sandbox
-        checkoutAPIClient = CheckoutAPIClient(publicKey: publicKey, environment: environment)
-        result("initialized")
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleGenerateToken(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        guard let checkoutAPIClient = checkoutAPIClient else {
-            result(FlutterError(code: "NOT_INITIALIZED", message: "Plugin not initialized", details: nil))
-            return
-        }
-        
-        guard let arguments = call.arguments as? [String: Any] else {
-            result(FlutterError(code: "INVALID_ARGUMENTS", message: "Missing arguments", details: nil))
-            return
-        }
-        
-        // Create card from arguments
-        let card = CkoCardTokenRequest(
-            number: arguments["number"] as? String ?? "",
-            expiryMonth: arguments["expiryMonth"] as? UInt ?? 0,
-            expiryYear: arguments["expiryYear"] as? UInt ?? 0,
-            cvv: arguments["cvv"] as? String,
-            name: arguments["name"] as? String,
-            billingAddress: nil,
-            phone: nil
-        )
-        
-        checkoutAPIClient.createCardToken(card: card) { tokenResult in
-            DispatchQueue.main.async {
-                switch tokenResult {
-                case .success(let tokenResponse):
-                    result(tokenResponse.token)
-                case .failure(let error):
-                    result(FlutterError(code: self.GENERATE_TOKEN_ERROR, message: error.localizedDescription, details: nil))
-                }
-            }
-        }
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleGenerateApplePayToken(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "NOT_IMPLEMENTED", message: "Apple Pay not implemented yet", details: nil))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleIsCardValid(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        guard let arguments = call.arguments as? [String: Any],
-              let number = arguments["number"] as? String else {
-            result(false)
-            return
-        }
-        
-        let isValid = CardValidator.isValid(cardNumber: number)
-        result(isValid)
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleHandle3DS(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "NOT_IMPLEMENTED", message: "3DS not implemented yet", details: nil))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
     }
 }

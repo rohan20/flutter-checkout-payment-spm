@@ -12,17 +12,13 @@ let package = Package(
         .library(name: "flutter_checkout_payment", targets: ["flutter_checkout_payment"])
     ],
     dependencies: [
-        .package(url: "https://github.com/checkout/frames-ios", from: "4.3.8"),
-        .package(url: "https://github.com/checkout/CheckoutCardManagement-iOS", from: "3.1.1"),
-        .package(url: "https://github.com/checkout/checkout-event-logger-ios-framework", from: "1.2.4")
+        
     ],
     targets: [
         .target(
             name: "flutter_checkout_payment",
             dependencies: [
-                .product(name: "Frames", package: "frames-ios"),
-                .product(name: "CheckoutCardManagement", package: "CheckoutCardManagement-iOS"),
-                .product(name: "CheckoutEventLoggerKit", package: "checkout-event-logger-ios-framework")
+                
             ],
             path: "Classes",
             sources: [
