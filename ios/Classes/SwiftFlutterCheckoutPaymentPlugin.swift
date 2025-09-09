@@ -42,22 +42,22 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     }
     
     private func handleInit(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.2.0 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleGenerateToken(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.2.0 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleGenerateApplePayToken(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.2.0 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleIsCardValid(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.2.0 functionality implemented natively in iOS app", details: call.method))
     }
     
     private func handleHandle3DS(call: FlutterMethodCall, result: @escaping FlutterResult) {
-        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.1.1 functionality implemented natively in iOS app", details: call.method))
+        result(FlutterError(code: "SPM_BRIDGE", message: "CheckoutCardManagement v3.2.0 functionality implemented natively in iOS app", details: call.method))
     }
 }
