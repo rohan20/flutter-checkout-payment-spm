@@ -8,11 +8,14 @@ Pod::Spec.new do |s|
   s.author           = { 'Rohan Relan' => 'rohanrelan20@gmail.com' }
 
   s.source           = { :path => '.' }
-  s.source_files     = 'Classes/FlutterCheckoutPaymentPlugin.{h,m}'
+  s.source_files     = 'Classes/**/*'
   s.public_header_files = 'Classes/FlutterCheckoutPaymentPlugin.h'
   s.dependency 'Flutter'
   
-  # This podspec serves as a bridge - the actual implementation is via SPM
+  # Add Checkout Frames as CocoaPods dependency
+  s.dependency 'Frames', '~> 4.3.8'
+  
+  # This podspec uses CocoaPods for dependency management
   
   s.platform = :ios, '13.0'
 
