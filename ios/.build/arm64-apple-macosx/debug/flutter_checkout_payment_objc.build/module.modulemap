@@ -1,0 +1,4 @@
+module flutter_checkout_payment_objc {
+    umbrella "/private/tmp/flutter-checkout-payment-spm/ios/Classes"
+    export *
+}

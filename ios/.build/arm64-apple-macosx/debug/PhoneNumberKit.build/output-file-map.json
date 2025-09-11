@@ -1,0 +1,119 @@
+{
+  "": {
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/master.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/Bundle+Resources.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Bundle+Resources.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Bundle+Resources.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Bundle+Resources~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Bundle+Resources.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/Constants.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Constants.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Constants.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Constants.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/Formatter.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Formatter.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Formatter.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Formatter~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/Formatter.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/MetadataManager.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataManager.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataManager.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataManager~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataManager.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/MetadataParsing.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataParsing.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataParsing.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataParsing~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataParsing.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/MetadataTypes.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataTypes.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataTypes.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataTypes~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/MetadataTypes.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/NSRegularExpression+Swift.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/NSRegularExpression+Swift.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/NSRegularExpression+Swift.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/NSRegularExpression+Swift~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/NSRegularExpression+Swift.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/ParseManager.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/ParseManager.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/ParseManager.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/ParseManager~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/ParseManager.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/PartialFormatter.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PartialFormatter.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PartialFormatter.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PartialFormatter~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PartialFormatter.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/PhoneNumber+Codable.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber+Codable.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber+Codable.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber+Codable~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber+Codable.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/PhoneNumber.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumber.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/PhoneNumberFormatter.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberFormatter.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberFormatter.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberFormatter~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberFormatter.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/PhoneNumberParser.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberParser.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberParser.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberParser~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberParser.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/PhoneNumberUtility.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberUtility.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberUtility.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberUtility~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberUtility.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/RegexManager.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/RegexManager.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/RegexManager.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/RegexManager~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/RegexManager.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/UI/CountryCodePickerOptions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerOptions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerOptions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerOptions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerOptions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/UI/CountryCodePickerViewController.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerViewController.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerViewController.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerViewController~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/CountryCodePickerViewController.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/PhoneNumberKit/PhoneNumberKit/UI/PhoneNumberTextField.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberTextField.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberTextField.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberTextField~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberTextField.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/resource_bundle_accessor.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/resource_bundle_accessor.swiftdeps"
+  }
+}

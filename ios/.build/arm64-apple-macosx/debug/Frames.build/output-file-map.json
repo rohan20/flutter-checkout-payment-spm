@@ -1,0 +1,965 @@
+{
+  "": {
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/master.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/CardUtils.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardUtils.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardUtils.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardUtils~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardUtils.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/CheckoutColor.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutColor.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutColor.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutColor~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutColor.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/CheckoutSdkIos.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutSdkIos.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutSdkIos.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutSdkIos~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutSdkIos.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/CheckoutAPIService.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutAPIService.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutAPIService.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutAPIService~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CheckoutAPIService.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants+SchemeIcon.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+SchemeIcon.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+SchemeIcon.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+SchemeIcon~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+SchemeIcon.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/AccessibilityIdentifiers.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/AccessibilityIdentifiers.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/AccessibilityIdentifiers.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/AccessibilityIdentifiers~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/AccessibilityIdentifiers.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants+LocalizationKeys.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+LocalizationKeys.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+LocalizationKeys.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+LocalizationKeys~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+LocalizationKeys.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants+Padding.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Padding.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Padding.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Padding~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Padding.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants+Style.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Style.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Style.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Style~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants+Style.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Constants.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/ContentTypeProviding.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ContentTypeProviding.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ContentTypeProviding.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ContentTypeProviding~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ContentTypeProviding.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Dispatching.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dispatching.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dispatching.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dispatching~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dispatching.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Environment.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Environment.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Environment.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Environment~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Environment.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/CorrelationIDGenerator.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CorrelationIDGenerator.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CorrelationIDGenerator.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CorrelationIDGenerator~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CorrelationIDGenerator.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/DateProvider.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DateProvider.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DateProvider.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DateProvider~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DateProvider.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/FramesEventLogger.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesEventLogger.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesEventLogger.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesEventLogger~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesEventLogger.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/FramesLogEvent.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesLogEvent.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesLogEvent.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesLogEvent~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesLogEvent.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/PropertyProviding.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PropertyProviding.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PropertyProviding.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PropertyProviding~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PropertyProviding.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/RemoteProcessorMetadata+extensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/RemoteProcessorMetadata+extensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/RemoteProcessorMetadata+extensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/RemoteProcessorMetadata+extensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/RemoteProcessorMetadata+extensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Models/CardScheme.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardScheme.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardScheme.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardScheme~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardScheme.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Models/SecurityCodeTokenDetails.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeTokenDetails.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeTokenDetails.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeTokenDetails~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeTokenDetails.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Models/Typealiases.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Typealiases.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Typealiases.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Typealiases~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Typealiases.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/ThreeDSWKNavigationHelperFactory.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreeDSWKNavigationHelperFactory.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreeDSWKNavigationHelperFactory.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreeDSWKNavigationHelperFactory~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreeDSWKNavigationHelperFactory.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/TopLevelDecoder.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelDecoder.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelDecoder.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelDecoder~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelDecoder.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/TopLevelEncoder.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelEncoder.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelEncoder.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelEncoder~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TopLevelEncoder.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/CAShapeLayerExtension.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CAShapeLayerExtension.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CAShapeLayerExtension.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CAShapeLayerExtension~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CAShapeLayerExtension.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/Dictionary+Additions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dictionary+Additions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dictionary+Additions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dictionary+Additions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Dictionary+Additions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/DispatchQueue+Dispatching.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DispatchQueue+Dispatching.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DispatchQueue+Dispatching.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DispatchQueue+Dispatching~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DispatchQueue+Dispatching.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/JSONDecoder+TopLevelDecoder.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONDecoder+TopLevelDecoder.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONDecoder+TopLevelDecoder.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONDecoder+TopLevelDecoder~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONDecoder+TopLevelDecoder.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/JSONEncoder+ContentTypeProviding.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+ContentTypeProviding.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+ContentTypeProviding.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+ContentTypeProviding~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+ContentTypeProviding.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/JSONEncoder+TopLevelEncoder.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+TopLevelEncoder.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+TopLevelEncoder.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+TopLevelEncoder~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/JSONEncoder+TopLevelEncoder.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/PhoneExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/StringExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/StringExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/StringExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/StringExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIBarStyle+stringValue.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBarStyle+stringValue.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBarStyle+stringValue.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBarStyle+stringValue~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBarStyle+stringValue.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIBezierPathExtension.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBezierPathExtension.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBezierPathExtension.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBezierPathExtension~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIBezierPathExtension.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIDeviceExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIDeviceExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIDeviceExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIDeviceExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIDeviceExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIFont+PropertyProviding.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIFont+PropertyProviding.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIFont+PropertyProviding.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIFont+PropertyProviding~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIFont+PropertyProviding.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UINavigationControllerExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UINavigationControllerExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UINavigationControllerExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UINavigationControllerExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UINavigationControllerExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIResponderExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIResponderExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIResponderExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIResponderExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIResponderExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIStackViewExtension.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIStackViewExtension.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIStackViewExtension.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIStackViewExtension~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIStackViewExtension.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UITableViewExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITableViewExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITableViewExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITableViewExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITableViewExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UITextFieldExtension.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITextFieldExtension.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITextFieldExtension.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITextFieldExtension~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UITextFieldExtension.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIViewControllerExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewControllerExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewControllerExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewControllerExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewControllerExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIViewExtensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewExtensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewExtensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewExtensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/UIViewExtensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/URL+Extensions.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/URL+Extensions.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/URL+Extensions.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/URL+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/URL+Extensions.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/3DS/ThreedsWebViewController.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewController.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewController.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewController~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewController.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/3DS/ThreedsWebViewControllerDelegate.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewControllerDelegate.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewControllerDelegate.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewControllerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ThreedsWebViewControllerDelegate.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/BillingFormCell.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCell.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCell.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCell~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCell.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/AddressLine1/DefaultBillingFormAddressLine1CellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine1CellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine1CellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine1CellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine1CellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/AddressLine2/DefaultBillingFormAddressLine2CellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine2CellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine2CellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine2CellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormAddressLine2CellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/City/DefaultBillingFormCityCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCityCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCityCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCityCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCityCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/Country/DefaultBillingFormCountryCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCountryCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCountryCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCountryCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormCountryCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/FullName/DefaultBillingFormFullNameCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormFullNameCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormFullNameCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormFullNameCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormFullNameCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/PhoneNumber/DefaultBillingFormPhoneNumberCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPhoneNumberCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPhoneNumberCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPhoneNumberCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPhoneNumberCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/Postcode/DefaultBillingFormPostCodeCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPostCodeCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPostCodeCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPostCodeCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormPostCodeCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/State/DefaultBillingFormStateCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStateCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStateCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStateCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStateCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Cancel/DefaultCancelButtonFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCancelButtonFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCancelButtonFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCancelButtonFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCancelButtonFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Done/DefaultDoneFormButtonStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultDoneFormButtonStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultDoneFormButtonStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultDoneFormButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultDoneFormButtonStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Main/DefaultBillingFormHeaderCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormHeaderCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormHeaderCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormHeaderCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormHeaderCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Title/DefaultHeaderLabelFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHeaderLabelFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHeaderLabelFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHeaderLabelFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHeaderLabelFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Main/DefaultBillingFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Country/DefaultCountryFormButtonStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCountryFormButtonStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCountryFormButtonStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCountryFormButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCountryFormButtonStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/DefaultBorderStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBorderStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBorderStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBorderStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBorderStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Error/DefaultErrorInputLabelStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultErrorInputLabelStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultErrorInputLabelStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultErrorInputLabelStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultErrorInputLabelStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Hint/DefaultHintInputLabelStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHintInputLabelStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHintInputLabelStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHintInputLabelStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultHintInputLabelStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/TextField/DefaultTextField.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTextField.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTextField.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTextField~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTextField.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Title/DefaultTitleLabelStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTitleLabelStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTitleLabelStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTitleLabelStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultTitleLabelStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/FramesFactory.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesFactory.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesFactory.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesFactory~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesFactory.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Model/BillingForm.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingForm.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingForm.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingForm~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingForm.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Style Protocol/BillingFormHeaderCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Style Protocol/BillingFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormCellTextField.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCellTextField.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCellTextField.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCellTextField~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormCellTextField.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormHeaderCell.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCell.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCell.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCell~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormHeaderCell.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormTextField.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextField.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextField.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextField~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextField.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormTextFieldView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextFieldView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextFieldView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextFieldView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormTextFieldView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/MainBillingFormTextField.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/MainBillingFormTextField.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/MainBillingFormTextField.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/MainBillingFormTextField~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/MainBillingFormTextField.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/ViewController/BillingFormViewController.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewController.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewController.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewController~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewController.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/ViewModel/BillingFormViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/ViewModel/DefaultBillingFormViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingFormViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Cell/CellButtonStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellButtonStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellButtonStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellButtonStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Cell/CellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Cell/CellTextFieldStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellTextFieldStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellTextFieldStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellTextFieldStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CellTextFieldStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementBorderStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementBorderStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementBorderStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementBorderStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementBorderStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementButtonStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementButtonStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementButtonStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementButtonStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementErrorViewStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementErrorViewStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementErrorViewStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementErrorViewStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementErrorViewStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementTextFieldStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementTextFieldStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementTextFieldStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementTextFieldStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ElementTextFieldStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/UIStyle/FramesUIStyle+UIColor.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIColor.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIColor.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIColor~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIColor.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/UIStyle/FramesUIStyle+UIFont.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIFont.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIFont.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIFont~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesUIStyle+UIFont.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/BorderView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BorderView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BorderView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BorderView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BorderView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/InputView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/InputView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/InputView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/InputView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/InputView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/SelectionButtonView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/SimpleErrorView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SimpleErrorView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SimpleErrorView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SimpleErrorView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SimpleErrorView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/ButtonView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ButtonView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ButtonView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ButtonView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ButtonView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/ImageContainerView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ImageContainerView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ImageContainerView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ImageContainerView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ImageContainerView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/LabelView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/LabelView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/LabelView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/LabelView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/LabelView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/SecureDisplayView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecureDisplayView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecureDisplayView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecureDisplayView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecureDisplayView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/TextFieldView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TextFieldView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TextFieldView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TextFieldView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/TextFieldView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/TableViewCell/SelectionButtonTableViewCell.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonTableViewCell.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonTableViewCell.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonTableViewCell~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SelectionButtonTableViewCell.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CountrySelection/CountrySelectionViewController.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewController.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewController.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewController~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewController.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CountrySelection/CountrySelectionViewControllerDelegate.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewControllerDelegate.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewControllerDelegate.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewControllerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CountrySelectionViewControllerDelegate.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/Button/DefaultAddBillingDetailsButtonStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsButtonStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsButtonStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsButtonStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/Button/DefaultEditBillingDetailsButtonStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultEditBillingDetailsButtonStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultEditBillingDetailsButtonStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultEditBillingDetailsButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultEditBillingDetailsButtonStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/View/DefaultAddBillingDetailsViewStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsViewStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsViewStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsViewStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultAddBillingDetailsViewStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/View/DefaultBillingSummaryViewStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingSummaryViewStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingSummaryViewStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingSummaryViewStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultBillingSummaryViewStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/CardNumber/DefaultCardNumberFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardNumberFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardNumberFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardNumberFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardNumberFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/Cardholder/DefaultCardholderFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardholderFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardholderFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardholderFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultCardholderFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/DefaultPayButtonFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPayButtonFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPayButtonFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPayButtonFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPayButtonFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/DefaultPaymentFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/DefaultPaymentHeaderCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentHeaderCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentHeaderCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentHeaderCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentHeaderCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/ExpiryDate/DefaultExpiryDateFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultExpiryDateFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultExpiryDateFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultExpiryDateFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultExpiryDateFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/SecurityCode/DefaultSecurityCodeFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Factory/PaymentFormFactory.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormFactory.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormFactory.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormFactory~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormFactory.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Model/PaymentFormConfiguration.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormConfiguration.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormConfiguration.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormConfiguration.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Model/PaymentStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/StyleProtocol/BillingSummaryViewStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingSummaryViewStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingSummaryViewStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingSummaryViewStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingSummaryViewStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/StyleProtocol/PaymentFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/StyleProtocol/PaymentHeaderCellStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderCellStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderCellStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderCellStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/BillingFormSummaryView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormSummaryView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormSummaryView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormSummaryView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/BillingFormSummaryView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardNumber/CardNumberView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardNumber/CardNumberViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardNumberViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardholderName/CardholderView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardholderName/CardholderViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardholderViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/ExpiryDate/ExpiryDateFormatter.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateFormatter.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateFormatter.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateFormatter~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateFormatter.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/ExpiryDate/ExpiryDateView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/ExpiryDateView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/PaymentHeaderView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentHeaderView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/SecurityCodeView.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeView.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeView.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeView~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeView.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/SecurityCodeViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewController/FramesPaymentViewController.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesPaymentViewController.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesPaymentViewController.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesPaymentViewController~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/FramesPaymentViewController.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewModel/CardCreationModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardCreationModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardCreationModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardCreationModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/CardCreationModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewModel/DefaultPaymentViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultPaymentViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewModel/PaymentViewModel.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentViewModel.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentViewModel.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentViewModel~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PaymentViewModel.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/DefaultSecurityCodeFormStyle+Extension.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle+Extension.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle+Extension.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle+Extension~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DefaultSecurityCodeFormStyle+Extension.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/SecurityCodeComponent.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponent.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponent.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponent~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponent.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/SecurityCodeComponentConfiguration.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentConfiguration.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentConfiguration.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentConfiguration.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/SecurityCodeComponentStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/SecurityCodeComponentStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingCountryInput.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingCountryInput.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingCountryInput.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingCountryInput~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingCountryInput.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingForm.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingForm.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingForm.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingForm~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingForm.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingHeader.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingHeader.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingHeader.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingHeader~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingHeader.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingInput.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingInput.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingInput.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingInput~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingInput.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Border.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Border.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Border.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Border~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Border.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Button.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Button.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Button.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Button~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Button.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Error.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Error.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Error.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Error~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Error.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Mandatory.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Mandatory.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Mandatory.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Mandatory~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Mandatory.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+PageHeaderTitle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PageHeaderTitle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PageHeaderTitle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PageHeaderTitle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PageHeaderTitle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Subtitle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Subtitle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Subtitle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Subtitle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Subtitle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+TextField.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+TextField.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+TextField.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+TextField~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+TextField.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Title.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Title.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Title.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Title~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+Title.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+AddBillingSectionButton.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+AddBillingSectionButton.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+AddBillingSectionButton.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+AddBillingSectionButton~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+AddBillingSectionButton.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+BillingSummary.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingSummary.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingSummary.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingSummary~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+BillingSummary.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+CardNumberSection.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+CardNumberSection.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+CardNumberSection.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+CardNumberSection~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+CardNumberSection.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PayButton.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PayButton.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PayButton.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PayButton~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PayButton.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PaymentFormStyle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentFormStyle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentFormStyle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentFormStyle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentFormStyle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PaymentHeader.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeader.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeader.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeader~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeader.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PaymentHeaderSubtitle.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeaderSubtitle.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeaderSubtitle.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeaderSubtitle~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme+PaymentHeaderSubtitle.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Theme.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Theme.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Validator/GenericInputValidator.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/GenericInputValidator.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/GenericInputValidator.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/GenericInputValidator~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/GenericInputValidator.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Validator/PhoneNumberValidator.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneNumberValidator.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneNumberValidator.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneNumberValidator~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/PhoneNumberValidator.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Validator/Validator.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Validator.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Validator.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Validator~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Validator.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/resource_bundle_accessor.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/resource_bundle_accessor.swiftdeps"
+  }
+}

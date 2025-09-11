@@ -1,0 +1,4 @@
+module flutter_checkout_payment {
+    header "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/flutter_checkout_payment-Swift.h"
+    requires objc
+}

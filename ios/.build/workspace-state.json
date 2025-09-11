@@ -1,0 +1,124 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "checkout-event-logger-ios-framework",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/checkout/checkout-event-logger-ios-framework.git",
+          "name" : "CheckoutEventLoggerKit"
+        },
+        "path" : "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-event-logger-ios-framework/CheckoutEventLoggerKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "CheckoutEventLoggerKit"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "fingerprintjs-pro-ios",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/fingerprintjs/fingerprintjs-pro-ios",
+          "name" : "FingerprintPro"
+        },
+        "path" : "/private/tmp/flutter-checkout-payment-spm/ios/.build/artifacts/fingerprintjs-pro-ios/FingerprintPro/FingerprintPro.xcframework",
+        "source" : {
+          "checksum" : "e5e38cdf80c067bfc8a2889f59eacc3d27cd122e3162ae922c1f26fd27c76bad",
+          "type" : "remote",
+          "url" : "https://fpjs-public.s3.amazonaws.com/ios/2.10.0/FingerprintPro-2.10.0-e5e38cdf80c067bfc8a2889f59eacc3d27cd122e3162ae922c1f26fd27c76bad.xcframework.zip"
+        },
+        "targetName" : "FingerprintPro"
+      }
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "checkout-event-logger-ios-framework",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/checkout/checkout-event-logger-ios-framework.git",
+          "name" : "CheckoutEventLoggerKit"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "a914d754b4ffb1843730e8e1f8e7e60c4bf81cf9",
+            "version" : "1.2.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "checkout-event-logger-ios-framework"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "checkout-risk-sdk-ios",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/checkout/checkout-risk-sdk-ios.git",
+          "name" : "Risk"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "a3435bcf50818154a3e9a15d0f554e6bfb9e20b7",
+            "version" : "3.0.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "checkout-risk-sdk-ios"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "fingerprintjs-pro-ios",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/fingerprintjs/fingerprintjs-pro-ios",
+          "name" : "FingerprintPro"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "96b9db53b186004f7b9b9584d3a9ffdc44b7fbb6",
+            "version" : "2.10.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "fingerprintjs-pro-ios"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "frames-ios",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/checkout/frames-ios.git",
+          "name" : "Frames"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "7e4019f468c81f7b9212a3c148392ab46d25b0b5",
+            "version" : "4.3.8"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "frames-ios"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "phonenumberkit",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/marmelroy/PhoneNumberKit.git",
+          "name" : "PhoneNumberKit"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "8cba2258060e356d5fc4836d4ff8549faa2409dd",
+            "version" : "4.1.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "PhoneNumberKit"
+      }
+    ]
+  },
+  "version" : 6
+}

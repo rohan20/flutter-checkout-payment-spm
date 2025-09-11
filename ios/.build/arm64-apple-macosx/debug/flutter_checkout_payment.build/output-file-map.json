@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/master.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/Classes/CardTokenisationResponse.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/CardTokenisationResponse.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/CardTokenisationResponse.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/CardTokenisationResponse~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/CardTokenisationResponse.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/Classes/SwiftFlutterCheckoutPaymentPlugin.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/SwiftFlutterCheckoutPaymentPlugin.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/SwiftFlutterCheckoutPaymentPlugin.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/SwiftFlutterCheckoutPaymentPlugin~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/flutter_checkout_payment.build/SwiftFlutterCheckoutPaymentPlugin.swiftdeps"
+  }
+}

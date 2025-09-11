@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/master.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Logging/Constants.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Constants.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Constants.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Constants.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Logging/LoggerService.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/LoggerService.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/LoggerService.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/LoggerService~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/LoggerService.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Models/PublishRiskData.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/PublishRiskData.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/PublishRiskData.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/PublishRiskData~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/PublishRiskData.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Models/RiskIntegrationType.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskIntegrationType.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskIntegrationType.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskIntegrationType~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskIntegrationType.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Models/RiskSDKInternalConfig.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKInternalConfig.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKInternalConfig.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKInternalConfig~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKInternalConfig.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Models/SourceType.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/SourceType.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/SourceType.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/SourceType~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/SourceType.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Risk.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Risk.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Risk.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Risk~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Risk.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/RiskSDKConfig.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKConfig.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKConfig.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKConfig~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskSDKConfig.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Services/APIService.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/APIService.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/APIService.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/APIService~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/APIService.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Services/DeviceDataService.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/DeviceDataService.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/DeviceDataService.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/DeviceDataService~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/DeviceDataService.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Services/FingerprintService.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/FingerprintService.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/FingerprintService.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/FingerprintService~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/FingerprintService.swiftdeps"
+  },
+  "/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/checkout-risk-sdk-ios/Sources/Risk/Services/RiskError.swift": {
+    "dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskError.d",
+    "object": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskError.swift.o",
+    "swiftmodule": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskError~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/RiskError.swiftdeps"
+  }
+}

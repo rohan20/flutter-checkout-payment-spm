@@ -1,0 +1,160 @@
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/CardUtils.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/CheckoutColor.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/CheckoutSdkIos.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/CheckoutAPIService.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants+SchemeIcon.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/AccessibilityIdentifiers.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants+LocalizationKeys.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants+Padding.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants+Style.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Constants/Constants.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/ContentTypeProviding.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Dispatching.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Environment.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/CorrelationIDGenerator.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/DateProvider.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/FramesEventLogger.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/FramesLogEvent.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/PropertyProviding.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Logging/RemoteProcessorMetadata+extensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Models/CardScheme.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Models/SecurityCodeTokenDetails.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/Models/Typealiases.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/ThreeDSWKNavigationHelperFactory.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/TopLevelDecoder.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Core/TopLevelEncoder.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/CAShapeLayerExtension.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/Dictionary+Additions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/DispatchQueue+Dispatching.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/JSONDecoder+TopLevelDecoder.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/JSONEncoder+ContentTypeProviding.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/JSONEncoder+TopLevelEncoder.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/PhoneExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/StringExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIBarStyle+stringValue.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIBezierPathExtension.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIDeviceExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIFont+PropertyProviding.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UINavigationControllerExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIResponderExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIStackViewExtension.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UITableViewExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UITextFieldExtension.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIViewControllerExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/UIViewExtensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/Extensions/URL+Extensions.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/3DS/ThreedsWebViewController.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/3DS/ThreedsWebViewControllerDelegate.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/BillingFormCell.swift
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/AddressLine1/DefaultBillingFormAddressLine1CellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/AddressLine2/DefaultBillingFormAddressLine2CellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/City/DefaultBillingFormCityCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/Country/DefaultBillingFormCountryCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/FullName/DefaultBillingFormFullNameCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/PhoneNumber/DefaultBillingFormPhoneNumberCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/Postcode/DefaultBillingFormPostCodeCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Fields/State/DefaultBillingFormStateCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Cancel/DefaultCancelButtonFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Done/DefaultDoneFormButtonStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Main/DefaultBillingFormHeaderCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Header/Title/DefaultHeaderLabelFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/BillingForm/Main/DefaultBillingFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Country/DefaultCountryFormButtonStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/DefaultBorderStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Error/DefaultErrorInputLabelStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Hint/DefaultHintInputLabelStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/TextField/DefaultTextField.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Default Implementation/Elements/Title/DefaultTitleLabelStyle.swift'
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/FramesFactory.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Model/BillingForm.swift
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Style Protocol/BillingFormHeaderCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/Style Protocol/BillingFormStyle.swift'
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormCellTextField.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormHeaderCell.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormTextField.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/BillingFormTextFieldView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/View/MainBillingFormTextField.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/ViewController/BillingFormViewController.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/ViewModel/BillingFormViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/BillingForm/ViewModel/DefaultBillingFormViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Cell/CellButtonStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Cell/CellStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Cell/CellTextFieldStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementBorderStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementButtonStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementErrorViewStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/Protocols/Elements/ElementTextFieldStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/UIStyle/FramesUIStyle+UIColor.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/UIStyle/FramesUIStyle+UIFont.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/BorderView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/InputView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/SelectionButtonView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Component/SimpleErrorView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/ButtonView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/ImageContainerView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/LabelView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/SecureDisplayView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/Core/TextFieldView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CommonUI/View/TableViewCell/SelectionButtonTableViewCell.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CountrySelection/CountrySelectionViewController.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/CountrySelection/CountrySelectionViewControllerDelegate.swift
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/Button/DefaultAddBillingDetailsButtonStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/Button/DefaultEditBillingDetailsButtonStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/View/DefaultAddBillingDetailsViewStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/BillingFormSummary/Summary/View/DefaultBillingSummaryViewStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/CardNumber/DefaultCardNumberFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/Cardholder/DefaultCardholderFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/DefaultPayButtonFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/DefaultPaymentFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/DefaultPaymentHeaderCellStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/ExpiryDate/DefaultExpiryDateFormStyle.swift'
+'/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Default Implementation/SecurityCode/DefaultSecurityCodeFormStyle.swift'
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Factory/PaymentFormFactory.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Model/PaymentFormConfiguration.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/Model/PaymentStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/StyleProtocol/BillingSummaryViewStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/StyleProtocol/PaymentFormStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/StyleProtocol/PaymentHeaderCellStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/BillingFormSummaryView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardNumber/CardNumberView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardNumber/CardNumberViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardholderName/CardholderView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/CardholderName/CardholderViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/ExpiryDate/ExpiryDateFormatter.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/ExpiryDate/ExpiryDateView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/PaymentHeaderView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/SecurityCodeView.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/View/SecurityCodeViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewController/FramesPaymentViewController.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewModel/CardCreationModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewModel/DefaultPaymentViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/PaymentForm/ViewModel/PaymentViewModel.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/DefaultSecurityCodeFormStyle+Extension.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/SecurityCodeComponent.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/SecurityCodeComponentConfiguration.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/SecurityCodeComponent/SecurityCodeComponentStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingCountryInput.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingForm.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingHeader.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/BillingForm/Theme+BillingInput.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Border.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Button.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Error.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Mandatory.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+PageHeaderTitle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Subtitle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+TextField.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Generic/Theme+Title.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+AddBillingSectionButton.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+BillingSummary.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+CardNumberSection.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PayButton.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PaymentFormStyle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PaymentHeader.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/PaymentForm/Theme+PaymentHeaderSubtitle.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Theme/Theme.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Validator/GenericInputValidator.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Validator/PhoneNumberValidator.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/checkouts/frames-ios/Source/UI/Validator/Validator.swift
+/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/DerivedSources/resource_bundle_accessor.swift

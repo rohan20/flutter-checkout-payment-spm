@@ -1,0 +1,4 @@
+module Risk {
+    header "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Risk.build/Risk-Swift.h"
+    requires objc
+}

@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "checkout-event-logger-ios-framework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/checkout/checkout-event-logger-ios-framework.git",
+      "state" : {
+        "revision" : "a914d754b4ffb1843730e8e1f8e7e60c4bf81cf9",
+        "version" : "1.2.4"
+      }
+    },
+    {
+      "identity" : "checkout-risk-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/checkout/checkout-risk-sdk-ios.git",
+      "state" : {
+        "revision" : "a3435bcf50818154a3e9a15d0f554e6bfb9e20b7",
+        "version" : "3.0.4"
+      }
+    },
+    {
+      "identity" : "fingerprintjs-pro-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fingerprintjs/fingerprintjs-pro-ios",
+      "state" : {
+        "revision" : "96b9db53b186004f7b9b9584d3a9ffdc44b7fbb6",
+        "version" : "2.10.0"
+      }
+    },
+    {
+      "identity" : "frames-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/checkout/frames-ios.git",
+      "state" : {
+        "revision" : "7e4019f468c81f7b9212a3c148392ab46d25b0b5",
+        "version" : "4.3.8"
+      }
+    },
+    {
+      "identity" : "phonenumberkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marmelroy/PhoneNumberKit.git",
+      "state" : {
+        "revision" : "8cba2258060e356d5fc4836d4ff8549faa2409dd",
+        "version" : "4.1.4"
+      }
+    }
+  ],
+  "version" : 2
+}

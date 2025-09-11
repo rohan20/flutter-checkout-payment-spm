@@ -1,5 +1,4 @@
 import Flutter
-import Checkout
 import UIKit
 import Frames
 
@@ -92,10 +91,10 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
             let phoneNumber : String = phoneModelDictionary["number"] as! String
             
             // create the phone number
-            let phoneModel = Checkout.Phone(number: phoneNumber, country: Country(iso3166Alpha2: countryCode))
+            let phoneModel = Frames.Phone(number: phoneNumber, country: Country(iso3166Alpha2: countryCode))
             
             // create the address
-            let billingModel = Checkout.Address(addressLine1: addressLine1, addressLine2: addressLine2, city: city, state: state, zip: zip, country: Country(iso3166Alpha2: country))
+            let billingModel = Frames.Address(addressLine1: addressLine1, addressLine2: addressLine2, city: city, state: state, zip: zip, country: Country(iso3166Alpha2: country))
             
             // create the card token request and generate the token.
             let card = Card(number: cardNumber, expiryDate: ExpiryDate(month: expiryMonthInt, year: expiryYearInt), name: name, cvv: cvv, billingAddress: billingModel, phone: phoneModel)
@@ -141,7 +140,7 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
             
             let cardNumber : String = args!["number"] as! String
             
-            var checkoutEnv: Checkout.Environment = .sandbox
+            var checkoutEnv: Frames.Environment = .sandbox
             if (environment == .live) {
                 checkoutEnv = .production
             }

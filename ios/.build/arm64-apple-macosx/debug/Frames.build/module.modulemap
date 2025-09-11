@@ -1,0 +1,4 @@
+module Frames {
+    header "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/Frames.build/Frames-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module PhoneNumberKit {
+    header "/private/tmp/flutter-checkout-payment-spm/ios/.build/arm64-apple-macosx/debug/PhoneNumberKit.build/PhoneNumberKit-Swift.h"
+    requires objc
+}
