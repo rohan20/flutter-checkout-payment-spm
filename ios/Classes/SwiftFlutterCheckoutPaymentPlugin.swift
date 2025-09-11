@@ -1,6 +1,29 @@
 import Flutter
 import UIKit
 
+enum CheckoutError: Error {
+    case invalidURL
+    case networkError(String)
+    case serializationError(String)
+    case apiError(String)
+    case parseError(String)
+    
+    var localizedDescription: String {
+        switch self {
+        case .invalidURL:
+            return "Invalid API URL"
+        case .networkError(let message):
+            return "Network error: \(message)"
+        case .serializationError(let message):
+            return "Serialization error: \(message)"
+        case .apiError(let message):
+            return "API error: \(message)"
+        case .parseError(let message):
+            return "Parse error: \(message)"
+        }
+    }
+}
+
 public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     
     /// The channel name which it's the bridge between Dart and SWIFT
@@ -58,7 +81,7 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
                 case .success(let tokenResponse):
                     result(tokenResponse)
                 case .failure(let error):
-                    result(FlutterError(code: self.GENERATE_TOKEN_ERROR, message: error, details: nil))
+                    result(FlutterError(code: self.GENERATE_TOKEN_ERROR, message: error.localizedDescription, details: nil))
                 }
             }
         } else if call.method == METHOD_IS_CARD_VALID {
@@ -72,10 +95,10 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
         }
     }
     
-    private func createApplePayToken(paymentDataBase64: String, completion: @escaping (Result<String, String>) -> Void) {
+    private func createApplePayToken(paymentDataBase64: String, completion: @escaping (Result<String, Error>) -> Void) {
         let baseURL = isProduction ? "https://api.checkout.com" : "https://api.sandbox.checkout.com"
         guard let url = URL(string: "\(baseURL)/tokens") else {
-            completion(.failure("Invalid API URL"))
+            completion(.failure(CheckoutError.invalidURL))
             return
         }
         
@@ -94,23 +117,23 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
         do {
             request.httpBody = try JSONSerialization.data(withJSONObject: requestBody)
         } catch {
-            completion(.failure("Failed to serialize request body: \(error.localizedDescription)"))
+            completion(.failure(CheckoutError.serializationError("Failed to serialize request body: \(error.localizedDescription)")))
             return
         }
         
         URLSession.shared.dataTask(with: request) { data, response, error in
             if let error = error {
-                completion(.failure("Network error: \(error.localizedDescription)"))
+                completion(.failure(CheckoutError.networkError(error.localizedDescription)))
                 return
             }
             
             guard let httpResponse = response as? HTTPURLResponse else {
-                completion(.failure("Invalid response"))
+                completion(.failure(CheckoutError.networkError("Invalid response")))
                 return
             }
             
             guard let data = data else {
-                completion(.failure("No response data"))
+                completion(.failure(CheckoutError.networkError("No response data")))
                 return
             }
             
@@ -121,15 +144,15 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
                         let tokenResponse = self.createTokenResponseString(from: json)
                         completion(.success(tokenResponse))
                     } else {
-                        completion(.failure("Failed to parse response JSON"))
+                        completion(.failure(CheckoutError.parseError("Failed to parse response JSON")))
                     }
                 } catch {
-                    completion(.failure("JSON parsing error: \(error.localizedDescription)"))
+                    completion(.failure(CheckoutError.parseError("JSON parsing error: \(error.localizedDescription)")))
                 }
             } else {
                 // Error response
                 let errorMessage = String(data: data, encoding: .utf8) ?? "Unknown error"
-                completion(.failure("API error (\(httpResponse.statusCode)): \(errorMessage)"))
+                completion(.failure(CheckoutError.apiError("API error (\(httpResponse.statusCode)): \(errorMessage)")))
             }
         }.resume()
     }
