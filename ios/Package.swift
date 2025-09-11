@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "flutter_checkout_payment", targets: ["flutter_checkout_payment", "flutter_checkout_payment_objc"])
     ],
     dependencies: [
-        .package(url: "https://github.com/checkout/frames-ios.git", from: "4.3.6")
+        .package(url: "https://github.com/checkout/frames-ios.git", from: "4.3.8")
     ],
     targets: [
         .target(
