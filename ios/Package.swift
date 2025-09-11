@@ -12,17 +12,19 @@ let package = Package(
         .library(name: "flutter_checkout_payment", targets: ["flutter_checkout_payment"])
     ],
     dependencies: [
-        
+        .package(url: "https://github.com/checkout/frames-ios.git", from: "4.3.6")
     ],
     targets: [
         .target(
             name: "flutter_checkout_payment",
             dependencies: [
-                
+                .product(name: "Frames", package: "frames-ios"),
+                .product(name: "Checkout", package: "frames-ios")
             ],
             path: "Classes",
             sources: [
                 "SwiftFlutterCheckoutPaymentPlugin.swift",
+                "CardTokenisationResponse.swift",
                 "FlutterCheckoutPaymentPlugin.m"
             ],
             publicHeadersPath: ".",
