@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Rohan Taneja' => 'rhntnj@gmail.com' }
 
   s.source           = { :path => '.' }
-  s.source_files     = 'Classes/FlutterCheckoutPaymentPlugin.{h,m}'
+  s.source_files     = 'Classes/**/*'
   s.public_header_files = 'Classes/FlutterCheckoutPaymentPlugin.h'
   s.dependency 'Flutter'
   
