@@ -5,18 +5,17 @@ Pod::Spec.new do |s|
   s.description      = 'A minimal bridge podspec that defers to SPM implementation'
   s.homepage         = 'https://github.com/rohan20/flutter-checkout-payment-spm'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Rohan Relan' => 'rohanrelan20@gmail.com' }
+  s.author           = { 'Rohan Taneja' => 'rhntnj@gmail.com' }
 
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
   s.public_header_files = 'Classes/FlutterCheckoutPaymentPlugin.h'
   s.dependency 'Flutter'
   
-  # Add Checkout dependencies via CocoaPods
+  # Add Checkout Frames as CocoaPods dependency
   s.dependency 'Frames', '~> 4.3.8'
-  s.dependency 'CheckoutCardManagement', '~> 3.2.0'
   
-  # This podspec provides all Checkout.com dependencies via CocoaPods
+  # This podspec uses CocoaPods for Frames, SPM provides CheckoutCardManagement
   
   s.platform = :ios, '13.0'
 
