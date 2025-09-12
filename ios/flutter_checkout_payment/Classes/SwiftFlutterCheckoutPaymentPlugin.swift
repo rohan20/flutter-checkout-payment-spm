@@ -1,6 +1,7 @@
 import Flutter
 import UIKit
 import Frames
+import Checkout
 
 public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
     
@@ -161,9 +162,9 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
         
         let cardNumber : String = args!["number"] as! String
         
-        var checkoutEnv: Frames.Environment = .sandbox
+        var checkoutEnv: Checkout.Environment = .sandbox
         if (environment == .live) {
-            checkoutEnv = .production
+            checkoutEnv = .live
         }
         /// verify card number
         let cardValidator = CardValidator(environment: checkoutEnv)
