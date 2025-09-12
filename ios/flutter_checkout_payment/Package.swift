@@ -28,11 +28,7 @@ let package = Package(
             sources: [
                 "SwiftFlutterCheckoutPaymentPlugin.swift",
                 "CardTokenisationResponse.swift",
-                "FlutterCheckoutPaymentPlugin.m"
-            ],
-            publicHeadersPath: ".",
-            cSettings: [
-                .define("FLUTTER_PLUGIN_REGISTRAR", to: "1")
+                "FlutterCheckoutPaymentPluginShim.swift"
             ]
         )
     ]
