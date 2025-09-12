@@ -164,7 +164,7 @@ public class SwiftFlutterCheckoutPaymentPlugin: NSObject, FlutterPlugin {
         
         var checkoutEnv: Checkout.Environment = .sandbox
         if (environment == .live) {
-            checkoutEnv = .live
+            checkoutEnv = .production
         }
         /// verify card number
         let cardValidator = CardValidator(environment: checkoutEnv)
