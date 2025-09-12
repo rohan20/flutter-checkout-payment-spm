@@ -7,7 +7,7 @@ let package = Package(
         .iOS("13.0")
     ],
     products: [
-        .library(name: "flutter_checkout_payment", targets: ["flutter_checkout_payment"])
+        .library(name: "flutter-checkout-payment", targets: ["flutter_checkout_payment"])
     ],
     dependencies: [
         .package(url: "https://github.com/checkout/frames-ios.git", from: "4.3.8"),
