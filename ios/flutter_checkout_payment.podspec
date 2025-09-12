@@ -12,10 +12,11 @@ Pod::Spec.new do |s|
   s.public_header_files = 'Classes/FlutterCheckoutPaymentPlugin.h'
   s.dependency 'Flutter'
   
-  # Add Checkout Frames as CocoaPods dependency
+  # Add Checkout dependencies via CocoaPods
   s.dependency 'Frames', '~> 4.3.8'
+  s.dependency 'CheckoutCardManagement', '~> 3.2.0'
   
-  # This podspec uses CocoaPods for dependency management
+  # This podspec provides all Checkout.com dependencies via CocoaPods
   
   s.platform = :ios, '13.0'
 
