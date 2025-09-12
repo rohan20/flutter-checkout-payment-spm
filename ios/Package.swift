@@ -12,13 +12,14 @@ let package = Package(
         .library(name: "flutter_checkout_payment", targets: ["flutter_checkout_payment"])
     ],
     dependencies: [
-        // Frames dependency provided via CocoaPods in main project
+        // Use Frames via Swift Package Manager (SPM)
+        .package(url: "https://github.com/checkout/frames-ios.git", from: "4.3.8")
     ],
     targets: [
         .target(
             name: "flutter_checkout_payment",
             dependencies: [
-                // Frames dependency provided via CocoaPods in main project
+                .product(name: "Frames", package: "frames-ios")
             ],
             path: "Classes",
             sources: [
