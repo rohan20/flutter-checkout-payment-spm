@@ -11,7 +11,6 @@ Pod::Spec.new do |s|
   s.source_files     = 'Classes/**/*'
   s.public_header_files = 'Classes/FlutterCheckoutPaymentPlugin.h'
   s.dependency 'Flutter'
-  s.dependency 'Frames', '~> 4.3.8'
   
   # Note: This podspec only provides the Objective-C bridge
   # Swift implementation and dependencies are provided via SPM Package.swift
