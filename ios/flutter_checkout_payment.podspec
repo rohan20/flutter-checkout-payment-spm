@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.author           = { 'Rohan Taneja' => 'rhntnj@gmail.com' }
 
   s.source           = { :path => '.' }
-  s.source_files     = 'Classes/**/*'
-  s.public_header_files = 'Classes/FlutterCheckoutPaymentPlugin.h'
+  s.source_files     = 'flutter_checkout_payment/Classes/**/*'
+  # No public header files - this is a pure Swift plugin with Objective-C shim
   s.dependency 'Flutter'
   s.dependency 'Frames', '~> 4.3.8'
   
@@ -19,6 +19,12 @@ Pod::Spec.new do |s|
   s.platform = :ios, '13.0'
 
   # Flutter.framework does not contain a i386 slice.
-  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
+  s.pod_target_xcconfig = {
+    'DEFINES_MODULE' => 'YES',
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386',
+    'CLANG_ENABLE_MODULES' => 'YES',
+    'SWIFT_OBJC_INTERFACE_HEADER_NAME' => 'flutter_checkout_payment-Swift.h',
+    'SWIFT_VERSION' => '5.0'
+  }
   s.swift_version = '5.0'
 end
